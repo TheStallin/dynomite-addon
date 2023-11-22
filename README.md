@@ -24,7 +24,7 @@
 ### Starting:
 - Download <b>"Dynomite"</b> <br />
 - Run "dynomite.jar" with java or cmd(java -jar /path/to/dynomite.jar)
-- Click "Enject" button
+- Click "Inject" button
 ## Screenshots
 
 
