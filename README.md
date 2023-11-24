@@ -30,3 +30,7 @@
 
 ### Menu
 ![изображение](https://github.com/dynomitedev/dynomite-addon/assets/151769642/1c616f75-f574-43d0-b344-5feeaacbdedb)
+## Modules
+- Flight exploit via network block packets (works with all anti-cheats at the moment)
+- Coordinate exploit (new)
+- Teleportation exploit (Intaine only, no more than 15 blocks)
