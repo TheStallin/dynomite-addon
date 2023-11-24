@@ -33,4 +33,4 @@
 ## Modules
 - Flight exploit via block packets (works with all anti-cheats at the moment)
 - Coordinate exploit (new)
-- Teleportation exploit (Intaine only, no more than 15 blocks)
+- Teleportation exploit (Intave only, no more than 15 blocks)
