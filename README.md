@@ -1,4 +1,4 @@
-<a href="https://github.com/TheStallin/dynomite-addon/releases/download/release/dynomite.jar">
+<a href="https://github.com/TheStallin/dynomite-addon/releases/download/last/dynomite.jar">
     <img src="https://custom-icon-badges.demolab.com/badge/-Download-2b2b2b?style=for-the-badge&logo=download&logoColor=white" width=2000></img>
 </a>
 
